@@ -125,11 +125,11 @@ By adhering to the principle of **Simple as Possible**, Klein ensures that human
 
 [dev.to/janklein/jan-klein-understandable-ai](https://dev.to/janklein/jan-klein-understandable-ai-9ol)
 
-[app.daily.dev/posts/understandable-ai](https://app.daily.dev/posts/understandable-ai-t2ev5xlfb))
+[app.daily.dev/posts/understandable-ai](https://app.daily.dev/posts/understandable-ai-t2ev5xlfb)
 
 [discuss.ai.google.dev/t/understandable-ai](https://discuss.ai.google.dev/t/understandable-ai)
 
-[https://www.youtube.com/watch?v=M8sU85VOMGw](Understandable Ai @ YouTube)
+[Understandable Ai @ YouTube](https://www.youtube.com/watch?v=M8sU85VOMGw)
 
 [https://x.com/UAIDEVS](x.com/UAIDEVS)
 
